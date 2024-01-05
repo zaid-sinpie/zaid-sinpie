@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zaid-sinpie
-- 👀 I’m interested in iot,game characters illustration.
-- 🌱 I’m currently learning ui/ux
-- 💞️ I’m looking to collaborate on iot/game development.
+- 👀 I’m interested in Frontend Dvelopment, UI/UX, IOT & character Illustration.
+- 🌱 I’m currently learning reactJs.
+- 💞️ I’m looking to collaborate on Frontend development & UI/UX designing.
 - 📫 How to reach me zaidmasuldar@gmail.com.
 
 <!---
