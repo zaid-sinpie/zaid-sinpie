@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @zaid-sinpie
 - 👀 I’m interested in Frontend Dvelopment, UI/UX, IOT & character Illustration.
-- 🌱 I’m currently learning reactJs.
 - 💞️ I’m looking to collaborate on Frontend development & UI/UX designing.
 - 📫 How to reach me zaidmasuldar@gmail.com.
 - ✨ My Portfolio - https://zaid-sinpie-portfolio.netlify.app/
