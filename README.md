@@ -1,4 +1,4 @@
-- Hey! I’m Zaid — a developer who enjoys crafting full-stack applications with clean logic, smooth UIs, and just the right amount of caffeine ☕.
+Hey! I’m Zaid — a developer who enjoys crafting full-stack applications with clean logic, smooth UIs, and just the right amount of caffeine ☕.
 
 Here’s what I’ve worked with:
 
